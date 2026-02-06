@@ -1,5 +1,4 @@
 <div align="left">
-
   <h3>Frontend & Frameworks</h3>
   <hr />
   <p>
@@ -19,8 +18,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" align="middle" /> <sub><b>Bootstrap</b></sub>
   </p>
 
-  <br />
-
   <h3>Backend & Database</h3>
   <hr />
   <p>
@@ -38,8 +35,6 @@
     &emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" align="middle" /> <sub><b>MongoDB</b></sub>
   </p>
-
-  <br />
 
   <h3>Tools & Deployment</h3>
   <hr />
@@ -70,8 +65,6 @@
     <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" align="middle" /> <sub><b>Netlify</b></sub>
   </p>
 
-  <br />
-
   <h3>AI Tools</h3>
   <hr style="height: 1px; border: none; background-color: #30363d; margin-top: -5px;" />
   <p>
@@ -90,8 +83,6 @@
     </picture> <sub><b>Copilot</b></sub>
   </p>
 
-  <br />
-
   <h3>Creative</h3>
   <hr />
   <p>
@@ -101,5 +92,4 @@
     &emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" align="middle" /> <sub><b>Photoshop</b></sub>
   </p>
-
 </div>
