@@ -1,46 +1,141 @@
-# Frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+<div align="left">
+  <h2>Frontend & Frameworks:</h2>
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5" title="HTML5" />
+      <b style="margin-left: 8px;">HTML5</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="css3" title="CSS3" />
+      <b style="margin-left: 8px;">CSS3</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript" title="JavaScript" />
+      <b style="margin-left: 8px;">JavaScript</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react" title="React" />
+      <b style="margin-left: 8px;">React</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="redux" title="Redux" />
+      <b style="margin-left: 8px;">Redux</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="tailwind" title="Tailwind" />
+      <b style="margin-left: 8px;">Tailwind</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="bootstrap" title="Bootstrap" />
+      <b style="margin-left: 8px;">Bootstrap</b>
+    </div>
+  </div>
 
-# Styling & Frameworks:
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+  <h2>Backend & Database:</h2>
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="node(white).svg">
+        <source media="(prefers-color-scheme: light)" srcset="node(black).svg">
+        <img src="node(white).svg" width="40" alt="nodejs" title="NodeJS" />
+      </picture>
+      <b style="margin-left: 8px;">NodeJS</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="ex(white).svg">
+        <source media="(prefers-color-scheme: light)" srcset="ex(black).svg">
+        <img alt="Logo" src="ex(white).svg" width="40" alt="expressjs" title="ExpressJS" />
+      </picture>
+      <b style="margin-left: 8px;">ExpressJS</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb" title="MongoDB" />
+      <b style="margin-left: 8px;">MongoDB</b>
+    </div>
+  </div>
 
-# Backend & Database:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+  <h2>Tools & Deployment:</h2>
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git" title="Git" />
+      <b style="margin-left: 8px;">Git</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="github(white).svg">
+        <source media="(prefers-color-scheme: light)" srcset="github(black).svg">
+        <img alt="Logo" src="github(white).svg" width="40" alt="github" title="GitHub" />
+      </picture>
+      <b style="margin-left: 8px;">GitHub</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="vscode" title="VSCode" />
+      <b style="margin-left: 8px;">VSCode</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/kp-code-dev/kp-code-dev/main/google-antigravity.svg" width="40" alt="google antigravity" title="Google Antigravity" />
+      <b style="margin-left: 8px;">Google Antigravity</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="postman" title="Postman" />
+      <b style="margin-left: 8px;">Postman</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" title="npm" />
+      <b style="margin-left: 8px;">npm</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="vercel(white).svg">
+        <source media="(prefers-color-scheme: light)" srcset="vercel(black).svg">
+        <img alt="Logo" src="vercel(white).svg" width="40" alt="vercel" title="Vercel" />
+      </picture>
+      <b style="margin-left: 8px;">Vercel</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" alt="netlify" title="Netlify" />
+      <b style="margin-left: 8px;">Netlify</b>
+    </div>
+  </div>
 
-# Deployment:
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+  <h2>AI Tools:</h2>
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/kp-code-dev/kp-code-dev/main/google-gemini.svg" width="40" alt="gemini" title="Gemini" />
+      <b style="margin-left: 8px;">Gemini</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="chatGPT(white).svg">
+        <source media="(prefers-color-scheme: light)" srcset="chatGPT(black).svg">
+        <img alt="Logo" src="chatGPT(white).svg" width="40" alt="chatgpt" title="ChatGPT" />
+      </picture>
+      <b style="margin-left: 8px;">ChatGPT</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="copilot(white).svg">
+        <source media="(prefers-color-scheme: light)" srcset="copilot(black).svg">
+        <img alt="Logo" src="copilot(white).svg" width="40" alt="copilot" title="Copilot" />
+      </picture>
+      <b style="margin-left: 8px;">Copilot</b>
+    </div>
+  </div>
 
-# Version Control:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-# Tools & AI:
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-%234285F4.svg?style=flat&logo=google&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-
-# Creative & Design:
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20PS-Beginner-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-Intermediate-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Beginner-F24E1E?style=flat&logo=figma&logoColor=white)
-
-# Connect with Me:
-<p align="left">
-<a href="https://instagram.com/code_and_life_kp" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://linkedin.com/in/kalpeshmevada" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://www.youtube.com/@CoderLifeKP" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="youtube" /></a>
-<a href="mailto:kalpeshmvd092005@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
-</p>
+  <h2>Creative:</h2>
+  <div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="figma" title="Figma" />
+      <b style="margin-left: 8px;">Figma</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/kp-code-dev/kp-code-dev/main/canva.svg" width="40" alt="canva" title="Canva" />
+      <b style="margin-left: 8px;">Canva</b>
+    </div>
+    <div style="display: flex; align-items: center; margin: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" alt="photoshop" title="Photoshop" />
+      <b style="margin-left: 8px;">Photoshop</b>
+    </div>
+  </div>
+</div>
