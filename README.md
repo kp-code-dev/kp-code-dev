@@ -22,7 +22,7 @@
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="node(white).svg">
-      <source media="(prefers-color-scheme: light)" srcset="node(black).svg">
+      <source media="(prefers-color-scheme: light)" srcset="node(dark).svg">
       <img src="node(white).svg" width="70" align="middle" alt="nodejs" title="NodeJS" />
     </picture> 
     &emsp;
