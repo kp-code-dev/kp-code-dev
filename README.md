@@ -1,6 +1,4 @@
-<div align="left">
-  <h3>Frontend & Frameworks</h3>
-  <hr />
+## Frontend & Frameworks:
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" align="middle" alt="html5" title="HTML5" /> 
     &emsp;
@@ -17,8 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" align="middle" alt="bootstrap" title="Bootstrap" /> 
   </p>
 
-  <h3>Backend & Database</h3>
-  <hr />
+## Backend & Database:
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="node(white).svg">
@@ -35,8 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" align="middle" alt="mongodb" title="MongoDB" /> 
   </p>
 
-  <h3>Tools & Deployment</h3>
-  <hr />
+## Tools & Deployment:
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" align="middle" alt="git" title="Git" /> 
     &emsp;
@@ -63,8 +59,7 @@
     <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" align="middle" alt="netlify" title="Netlify" /> 
   </p>
 
-  <h3>AI Tools</h3>
-  <hr style="height: 1px; border: none; background-color: #30363d; margin-top: -5px;" />
+## AI Tools:
   <p>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="chatGPT(white).svg">
@@ -81,8 +76,7 @@
     <img src="https://raw.githubusercontent.com/kp-code-dev/kp-code-dev/main/google-gemini.svg" width="40" align="middle" alt="gemini" title="Gemini" /> 
   </p>
 
-  <h3>Creative</h3>
-  <hr />
+## Creative:
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" align="middle" alt="figma" title="Figma" /> 
     &emsp;
